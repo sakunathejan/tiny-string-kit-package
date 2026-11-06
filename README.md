@@ -37,9 +37,9 @@ import {
 Capitalizes the first character of a string.
 
 ```javascript
-console.log(capitalizeFirst("sakuna"));
+console.log(capitalizeFirst("nimal"));
 
-// Output: Sakuna
+// Output: Nimal
 ```
 
 ### 2. reverseText()
