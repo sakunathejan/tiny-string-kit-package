@@ -1,0 +1,20 @@
+{
+  "name": "tiny-string-kit",
+  "version": "1.0.0",
+  "description": "A package that other developers can install and use in their JavaScript projects.",
+  "homepage": "https://github.com/sakunathejan/tiny-string-kit-package#readme",
+  "bugs": {
+    "url": "https://github.com/sakunathejan/tiny-string-kit-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakunathejan/tiny-string-kit-package.git"
+  },
+  "license": "MIT",
+  "author": "Sakuna Thejan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module"
+}
